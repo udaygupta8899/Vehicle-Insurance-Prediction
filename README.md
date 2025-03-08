@@ -4,6 +4,9 @@
 ## 📌 Overview
 This project is a complete **MLOps pipeline** that involves **data ingestion, validation, transformation, model training, and deployment** using **MongoDB, AWS, Docker, and CI/CD** integration with GitHub Actions. It enables **real-time vehicle data processing** and prediction.
 
+## 🚀 Live Link
+http://3.95.248.33:5000/
+
 ## 🎯 Features
 ✅ **Automated Data Pipeline** - Ingest, validate, and transform vehicle data from MongoDB Atlas.  
 ✅ **Machine Learning Model Training** - Train models for vehicle data analysis and prediction.  
