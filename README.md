@@ -80,17 +80,9 @@ export AWS_DEFAULT_REGION="us-east-1"
 4️⃣ **Self-Hosted Runner:**  
    - Connect **EC2 to GitHub Actions** for CI/CD.
 5️⃣ **Expose Port for Deployment:**  
-   - Open port `5080` in **AWS Security Group**.
+   - Open port `5000` in **AWS Security Group**.
 6️⃣ **Launch the App:**  
-   - Access via `http://<public-ip>:5080` in your browser.
-
----
-
-## 🚀 Future Enhancements
-🔹 Implement **real-time vehicle data streaming** using Kafka.  
-🔹 Add **advanced ML models** for better prediction accuracy.  
-🔹 Deploy via **Kubernetes** for scalability.  
-🔹 Enhance **monitoring & logging** using ELK stack.
+   - Access via `http://<public-ip>:5000` in your browser.
 
 ---
 
