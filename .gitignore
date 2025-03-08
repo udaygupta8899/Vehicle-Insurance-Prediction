@@ -1,6 +1,8 @@
 mongoDB_user_pass.txt
 notebook
 logs
+*.log
+artifact
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
