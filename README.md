@@ -10,12 +10,12 @@ http://54.146.170.224:5000/
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot/1.png" width="600"><br>
+  <img src="screenshots/1.png" width="600"><br>
   <em>Data Form</em>
 </p>
 
 <p align="center">
-  <img src="screenshot/2.png" width="600"><br>
+  <img src="screenshots/2.png" width="600"><br>
   <em>Prediction Page</em>
 </p>
 
