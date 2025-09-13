@@ -1,7 +1,24 @@
 # 🚗 Vehicle Data Pipeline Project 🚀
 
+
 ## 📌 Overview
 This project is a complete **MLOps pipeline** that involves **data ingestion, validation, transformation, model training, and deployment** using **MongoDB, AWS, Docker, and CI/CD** integration with GitHub Actions. It enables **real-time vehicle data processing** and prediction.
+
+## 🚀 Live Link
+http://54.146.170.224:5000/
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot/1.png" width="600"><br>
+  <em>Data Form</em>
+</p>
+
+<p align="center">
+  <img src="screenshot/2.png" width="600"><br>
+  <em>Prediction Page</em>
+</p>
+
 
 ## 🎯 Features
 ✅ **Automated Data Pipeline** - Ingest, validate, and transform vehicle data from MongoDB Atlas.  
